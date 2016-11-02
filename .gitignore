@@ -1,0 +1,8 @@
+#Vendor
+/vendor
+
+#assets
+/frontend/web/assets
+
+#attachments
+/frontend/web/attachments
